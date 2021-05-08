@@ -24,8 +24,24 @@
 | [Volcano](https://github.com/volcano-sh/volcano) | Batch Scheduling System | A batch system built on Kubernetes. | Integrates with generalized domain frameworks like TensorFlow, Spark, PyTorch, MPI, etc,|
 | [BFE](https://github.com/bfenetworks/bfe) | Networking | A modern layer 7 load balancer from baidu. | -------------|
 | [Service Mesh Interface](https://github.com/servicemeshinterface/smi-spec) | Service Mesh Interface | A specification for service meshes, with a focus on those that run on Kubernetes. | -------------|
-| [Open Serviec Mesh](https://github.com/openservicemesh/osm) | Service Mesh | A lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. | -------------|
-| [Kuma](https://github.com/kumahq/kuma) | Service Mesh | A modern Envoy-based service mesh that can run on every cloud, in a single or multi-zone capacity, across both Kubernetes and VMs.  | -------------|
-| [Network Service Mesh] | ------------- | ------------- | -------------|
+| [Open Serviec Mesh](https://github.com/openservicemesh/osm) | Networking | A lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. | -------------|
+| [Kuma](https://github.com/kumahq/kuma) | Networking | A modern Envoy-based service mesh that can run on every cloud, in a single or multi-zone capacity, across both Kubernetes and VMs.  | -------------|
+| [Network Service Mesh](https://github.com/networkservicemesh) | Networking | ------------- | -------------|
+| [CNI-Genie](https://github.com/cni-genie/CNI-Genie) | Networking | Enables container orchestrators (Kubernetes, Mesos) to seamlessly connect to the choice of CNI plugins installed on a host. | -------------|
+| [Kube-OVN](https://github.com/kubeovn/kube-ovn) | Networking | A CNCF Sandbox Level Project, integrates the OVN-based Network Virtualization with Kubernetes. | -------------|
+| [Longhorn](https://github.com/longhorn/longhorn) | Storage | A distributed block storage system for Kubernetes. | -------------|
+| [OpenEBS](https://openebs.io/) | Storage | The most widely deployed and easy to use open-source storage solution for Kubernetes. | -------------|
+| [ChubaoFS](https://github.com/chubaofs/chubaofs) | Storage | A cloud-native storage platform that provides both POSIX-compliant and S3-compatible interfaces. | -------------|
+| [Metal3](https://github.com/metal3-io) | ------------- | ------------- | -------------|
+| [tinkerbell] | ------------- | ------------- | -------------|
+| [OpenYurt] | Edge Computing | ------------- | -------------|
+| [tinkerbell] | ------------- | ------------- | -------------|
+| [in-toto] | ------------- | ------------- | -------------|
+| [Keylime] | ------------- | ------------- | -------------|
+| [Parsec] | ------------- | ------------- | -------------|
+| [Curiefense] | ------------- | ------------- | -------------|
+| [dex] | ------------- | ------------- | -------------|
+| [Kyverno] | ------------- | ------------- | -------------|
+| [Athenz] | ------------- | ------------- | -------------|
 
 
